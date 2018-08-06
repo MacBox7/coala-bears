@@ -1,6 +1,7 @@
 # NOTE: This file is parsed by .ci/generate_bear_requirements.py
 # Edit coala_dependency in coala-build.yaml
 git+https://github.com/coala/coala#egg=coala
+git+https://gitlab.com/MacBox7/coala-pyflakes.git@bump-pyflakes#egg=coala-pyflakes
 # Dependencies inherited from coala
 # coala_utils
 # dependency_management
